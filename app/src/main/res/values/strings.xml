@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">My Story</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">LOGIN</string>
     <string name="forgot_your_password">forgot your password?</string>
     <string name="check_acceptance">I accept terms and conditions</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="email">email</string>
+
 </resources>

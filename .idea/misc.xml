@@ -5,8 +5,10 @@
       <map>
         <entry key="..\:/Users/LENOVO/MyStory2/app/src/main/res/layout/activity_library.xml" value="0.1859375" />
         <entry key="..\:/Users/LENOVO/MyStory2/app/src/main/res/layout/activity_login.xml" value="0.22" />
-        <entry key="..\:/Users/LENOVO/MyStory2/app/src/main/res/layout/activity_main.xml" value="0.12454710144927536" />
+        <entry key="..\:/Users/LENOVO/MyStory2/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/LENOVO/MyStory2/app/src/main/res/layout/activity_splash.xml" value="0.12454710144927536" />
+        <entry key="..\:/Users/LENOVO/MyStory2/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/MyStory2/app/src/main/res/menu/nav_items.xml" value="0.2" />
       </map>
     </option>
   </component>
